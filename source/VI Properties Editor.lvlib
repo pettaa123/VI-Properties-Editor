@@ -21,6 +21,7 @@
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Confirmation Type.ctl" Type="VI" URL="../CTLs/Confirmation Type.ctl"/>
 		<Item Name="Control Properties.ctl" Type="VI" URL="../CTLs/Control Properties.ctl"/>
+		<Item Name="Custom Symbols.ctl" Type="VI" URL="../CTLs/Custom Symbols.ctl"/>
 		<Item Name="Filter Info.ctl" Type="VI" URL="../CTLs/Filter Info.ctl"/>
 		<Item Name="Filter Type.ctl" Type="VI" URL="../CTLs/Filter Type.ctl"/>
 		<Item Name="Main Front Panel Controls.ctl" Type="VI" URL="../CTLs/Main Front Panel Controls.ctl"/>
