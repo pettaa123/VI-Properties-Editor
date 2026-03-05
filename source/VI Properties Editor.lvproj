@@ -14,7 +14,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Custom Symbols.ctl" Type="VI" URL="../CTLs/Custom Symbols.ctl"/>
 		<Item Name="VI Properties Editor.lvlib" Type="Library" URL="../VI Properties Editor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
