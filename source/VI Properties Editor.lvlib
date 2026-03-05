@@ -65,6 +65,8 @@
 		<Item Name="Filter and Sort Items.vi" Type="VI" URL="../SubVIs/Filter and Sort Items.vi"/>
 		<Item Name="Filter Files by Extension.vi" Type="VI" URL="../SubVIs/Filter Files by Extension.vi"/>
 		<Item Name="Find Bold Formatting.vi" Type="VI" URL="../SubVIs/Find Bold Formatting.vi"/>
+		<Item Name="Find Node Attribute from File Recursively.vi" Type="VI" URL="../SubVIs/Find Node Attribute from File Recursively.vi"/>
+		<Item Name="Find Node Attribute.vi" Type="VI" URL="../SubVIs/Find Node Attribute.vi"/>
 		<Item Name="Format Item Names.vi" Type="VI" URL="../SubVIs/Format Item Names.vi"/>
 		<Item Name="Get All Folder VI Data.vi" Type="VI" URL="../SubVIs/Get All Folder VI Data.vi"/>
 		<Item Name="Get All Library VI Data.vi" Type="VI" URL="../SubVIs/Get All Library VI Data.vi"/>
@@ -73,7 +75,6 @@
 		<Item Name="Get Control Data.vi" Type="VI" URL="../SubVIs/Get Control Data.vi"/>
 		<Item Name="Get Global VI Data.vi" Type="VI" URL="../SubVIs/Get Global VI Data.vi"/>
 		<Item Name="Get Item Data.vi" Type="VI" URL="../SubVIs/Get Item Data.vi"/>
-		<Item Name="Get Node Attribute.vi" Type="VI" URL="../SubVIs/Get Node Attribute.vi"/>
 		<Item Name="Get Poly VI Data.vi" Type="VI" URL="../SubVIs/Get Poly VI Data.vi"/>
 		<Item Name="Get Standard VI Data.vi" Type="VI" URL="../SubVIs/Get Standard VI Data.vi"/>
 		<Item Name="Gray if False.vi" Type="VI" URL="../SubVIs/Gray if False.vi"/>
