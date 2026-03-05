@@ -36,6 +36,22 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="VI Properties Editor.lvlib:Get All Project VI Data.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+          <Signal index="3340" enabled="1"/>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3334"/>
+          <SignalUID value="3413"/>
+          <SignalUID value="4208"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="VI Properties Editor.lvlib:Parse Item URLs from File Recursively.vi:390001">
       <Breakpoints>
         <NodeIndexes>
@@ -67,6 +83,19 @@
           <SignalUID value="419"/>
           <SignalUID value="124"/>
           <SignalUID value="363"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="VI Properties Editor.lvlib:VI Properties Editor.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="17571"/>
         </Generic>
       </Probes>
     </VI>
