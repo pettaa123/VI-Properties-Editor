@@ -8,7 +8,6 @@
 	<Property Name="EndevoGOOP_ColorTextHeader" Type="UInt">0</Property>
 	<Property Name="EndevoGOOP_FrameThickness" Type="UInt">1</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*)!!!*Q(C=\&gt;1R&lt;NMQ&amp;-&lt;R,U7'L,Z"9SA&amp;-L]J9Q!P/9#P]0:-8D-["`$QLO!L?#^1Y'W&gt;@16@1@W4@H+#I)W8&amp;MU1-:4EDS,Z#U6)[M?6&gt;+G@ZY\BX;/VD\U-YTC&gt;BJ?\V_X$&gt;(UZ`&lt;\`M@X5`^2Z?$0)H^K(=@IZH0?@/`4O]&gt;H_W@[RW]^P\[@R0R`3B&gt;3OYZD5I$L6V*L'*%`S*%`S*%`S)!`S)!`S)!^S*X&gt;S*X&gt;S*X&gt;S)T&gt;S)T&gt;S)T@S8MB&amp;,H+2MSL*Z-F%S;$*!-H$5*3=%E`C34S*BZ^+0)EH]33?R--D3DS**`%EHM2$.S7?R*.Y%E`C9;AOS6\)]31?BF@A#4S"*`!%(K:5Y!E!Q74"Q-%A-"1U"D?"*`!%(GY6?!*0Y!E]A9&gt;G":\!%XA#4_#B3V_6[*J7S0%QD"S0YX%]DM@R-,1=D_.R0)\(]4#&gt;()`D=2$/B-\A%/2U=BZQ@DA?R].&amp;DM@R/"\(YXBI[G`)_]IU43PE?!S0Y4%]BM@Q-)1-D_%R0)&lt;(]$#M$)`B-4S'R`!QF1S0Y4%]"M39F/FF$':U."YS!M0$8^]NVN^3&gt;)HV)N8G67V+V7:4&lt;3,6ZF#^&gt;.8,6,UEV?+L&amp;F7V7+J&amp;50VT+L1+IZJ%V&lt;E^K!0H086(X6,8V"6V36V1Z^2:[`K8(TQ=$NLP^^LN&gt;NJONVKPVVKN6FIOFVIM&amp;JL0ZZL.:K?PV6@+]&lt;C9PEN0X'`OPD^O&lt;GY@.H=`(J_P&lt;__@L\`&gt;NXRK`R@V_&amp;X[#.^'@&gt;(R?FKD8S&lt;44]9!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -28,6 +27,7 @@
 		<Item Name="Main References.ctl" Type="VI" URL="../CTLs/Main References.ctl"/>
 		<Item Name="Main State Data.ctl" Type="VI" URL="../CTLs/Main State Data.ctl"/>
 		<Item Name="Sort Info.ctl" Type="VI" URL="../CTLs/Sort Info.ctl"/>
+		<Item Name="VI Data Map.ctl" Type="VI" URL="../CTLs/VI Data Map.ctl"/>
 		<Item Name="VI Data.ctl" Type="VI" URL="../CTLs/VI Data.ctl"/>
 		<Item Name="VI Properties.ctl" Type="VI" URL="../CTLs/VI Properties.ctl"/>
 	</Item>

@@ -1,0 +1,74 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="1ZZTEMPZZ_SyncInst_Parse Item URLs from Node.vi:3490001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="795"/>
+          <SignalUID value="453"/>
+          <SignalUID value="530"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="VI Properties Editor.lvlib:Get All Project VI Data XML.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3983"/>
+          <SignalUID value="6419"/>
+          <SignalUID value="508"/>
+          <SignalUID value="5079"/>
+          <SignalUID value="5121"/>
+          <SignalUID value="5520"/>
+          <SignalUID value="91"/>
+          <SignalUID value="118"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="VI Properties Editor.lvlib:Parse Item URLs from File Recursively.vi:390001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="167"/>
+          <SignalUID value="783"/>
+          <SignalUID value="4046"/>
+          <SignalUID value="124"/>
+          <SignalUID value="1350"/>
+          <SignalUID value="561"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="VI Properties Editor.lvlib:Parse Item URLs from File Recursively.vi:390002">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="406"/>
+          <SignalUID value="419"/>
+          <SignalUID value="124"/>
+          <SignalUID value="363"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
