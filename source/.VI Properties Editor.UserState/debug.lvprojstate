@@ -16,6 +16,30 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="VI Properties Editor.lvlib:Get All Folder VI Data.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3076"/>
+          <SignalUID value="3802"/>
+          <SignalUID value="3015"/>
+          <SignalUID value="8259"/>
+          <SignalUID value="1333"/>
+          <SignalUID value="5002"/>
+          <SignalUID value="2366"/>
+          <SignalUID value="3675"/>
+          <SignalUID value="5546"/>
+          <SignalUID value="4414"/>
+          <SignalUID value="313"/>
+          <SignalUID value="16402"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="VI Properties Editor.lvlib:Get All Library VI Data.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -81,19 +105,6 @@
           <SignalUID value="419"/>
           <SignalUID value="124"/>
           <SignalUID value="363"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="VI Properties Editor.lvlib:VI Properties Editor.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="17571"/>
         </Generic>
       </Probes>
     </VI>
